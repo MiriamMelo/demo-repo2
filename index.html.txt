@@ -13,7 +13,7 @@
 	<header>
 		<nav>
 			<ul>
-				<li>SUSCRIBETE</li>
+				<li>SUSCRIBETE  AL  CANAL CODE</li>
 			</ul>
 		</nav>
 	</header>
